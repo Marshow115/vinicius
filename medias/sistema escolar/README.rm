@@ -1,0 +1,2 @@
+faça um cadastro de alunos q tenha um limite de 50 e peque as informações: nome, endereço, CPF, sexo, turma
+o cadastro deve ser em loop ate a palavra "ok" encerrar o loop e mostrar as informaçoes dos alunos
